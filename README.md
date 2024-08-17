@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lakshayk44
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me - instagram - @lakshayk._ 
 
 <!---
